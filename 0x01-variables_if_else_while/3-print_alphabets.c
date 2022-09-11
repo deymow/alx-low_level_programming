@@ -6,8 +6,7 @@
  */
 int main(void)
 {
-	char alphabet;
-	
+	char alphabet;	
 	/* Prints alphabet from a to z in lowercase */
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 		putchar(alphabet);
