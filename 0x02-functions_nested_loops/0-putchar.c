@@ -14,7 +14,8 @@
 int main(void)
 {
 	char alp[8] = "_putchar";
-	for (int i = 0; i <=8; i++){
+	int 1;
+	for (i = 0; i <=8; i++){
 	
 		_putchar(alp[i]);
 	}
