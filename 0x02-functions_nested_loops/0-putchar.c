@@ -13,13 +13,13 @@
 
 int main(void)
 {
-	char alp[8] = "_putchar";
+	char c[8] = "_putchar";
 	int i;
 	for (i = 0; i <=8; i++){
 	
-		_putchar(alp[i]);
+		_putchar(c[i]);
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
 
