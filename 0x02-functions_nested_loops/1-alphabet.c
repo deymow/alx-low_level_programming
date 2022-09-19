@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * print_alphabet - prints alphabet from a to z in lowercase
+ * Description: function print_alphabet prints alphabet from a to z in lowercase
  * Return: always 0
  */
 
