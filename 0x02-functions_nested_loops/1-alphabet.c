@@ -4,7 +4,6 @@
 /**
  * Print_alphabets - a function that prints alphabet
  * follow by a new line
- *
  * Return:void
  */
 
