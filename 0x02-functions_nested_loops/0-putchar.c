@@ -10,13 +10,15 @@
 
 int main(void)
 {
+	/**
+	 * Prints out _putchar using while loop
+	 */
 	char ch[8] = "_putchar";
 	int i = 0;
-	char c;
 
 	while (i <= 8)
 	{
-		c = ch[i];
+		char c = ch[i];
 		_putchar(c);
 		i++;
 	}
