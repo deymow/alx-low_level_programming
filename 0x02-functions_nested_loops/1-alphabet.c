@@ -2,8 +2,7 @@
 #include "main.h"
 
 /**
- * Print_alphabets - a function that prints alphabet
- * follow by a new line
+ * print_alphabets - this program prints english alphabet from a-z.
  * Return:void
  */
 
