@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
+ * main - Entry point
  * _putchar - writes the character c to stdout
  * @c: The character to print
  *
@@ -10,9 +11,6 @@
 
 int main(void)
 {
-	/**
-	 * Prints out _putchar using while loop
-	 */
 	char ch[8] = "_putchar";
 	int i = 0;
 
