@@ -3,7 +3,7 @@
 
 /**
  * _putchar - writes the character c to stdout
- * print_alphabet - writes alphabet from a to z in lowercase
+ * Description: print_alphabet writes alphabet from a to z in lowercase
  */
 
 void print_alphabet(void)
