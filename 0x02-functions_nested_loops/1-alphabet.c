@@ -2,11 +2,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * Print_alphabets - a function that prints alphabet
+ * follow by a new line
  *
- * Description: function print_alphabet prints alphabet
- *
- * Return: always 0
+ * Return:void
  */
 
 void print_alphabet(void)
