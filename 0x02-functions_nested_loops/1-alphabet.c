@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * Description: print_alphabet writes alphabet from a to z in lowercase
+ * print_alphabet - prints alphabet from a to z in lowercase
+ * Return: always 0
  */
 
 void print_alphabet(void)
