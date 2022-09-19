@@ -2,7 +2,6 @@
 #include "main.h"
 
 /**
- * _putchar - writes the character c to stdout
  * Description: print_alphabet writes alphabet from a to z in lowercase
  */
 
