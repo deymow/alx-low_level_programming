@@ -16,6 +16,7 @@ int main(void)
 	while (i <= 8)
 	{
 		_putchar(ch[i]);
-	}i++;
+		i = i + 1;
+	}
 	return (0);
 }
