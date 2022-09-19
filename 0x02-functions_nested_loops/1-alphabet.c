@@ -1,9 +1,13 @@
-#include <unistd.h>
+
 #include "main.h"
 
 /**
+ * main - Entry point
+ *
  * print_alphabets - this program prints english alphabet from a-z.
+ *
  * Return:void
+ *
  */
 
 void print_alphabet(void)
