@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabets - this program prints english alphabet from a-z.
+ * print_alphabet - Check description
+ * Description: It prints the alphabet in lowercase fallowed by a new line
  *
- * Return: void
- *
+ * Return: Nothing.
  */
 
 void print_alphabet(void)
