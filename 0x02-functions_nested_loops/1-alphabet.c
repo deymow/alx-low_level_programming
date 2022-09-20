@@ -1,12 +1,9 @@
-
 #include "main.h"
 
 /**
- * main - Entry point
- *
  * print_alphabets - this program prints english alphabet from a-z.
  *
- * Return:void
+ * Return: void
  *
  */
 
