@@ -8,7 +8,7 @@
 /**
  * print_sign - Prints the sign of a number.
  * @n: The number of which the sign will be printed.
- * Description: Tohis function prints the sign of the number
+ * Description: function prints the sign of the number
  * Return: 1 if number is positive,
  * 0 if number is 0, or
  * -1 if number is negative
