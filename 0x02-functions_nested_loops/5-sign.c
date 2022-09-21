@@ -6,8 +6,10 @@
 #include "main.h"
 
 /**
+ * The print_sign function checks and prints out the sign of a number
+ *
  * print_sign() - prints out the sign of numbers
- * @n: number whose sign will be printed
+ * @n: member whose sign will be printed
  * Return: 1 if number is positive,
  *	0 if number is 0, or
  *	-1 if number is negative
