@@ -6,11 +6,11 @@
 #include "main.h"
 
 /**
- * print_sign - Checks and prints the sign of a number
- * @n: The number of which the sign will be printed.
- * Return: 1 and prints positive if number is greater than 0,
- * Return: 0 and prints 0 if number is 0, or
- * Return: -1 and prints - if number is negative
+ * print_sign - Check and print sign of numbers
+ * @n: An input number
+ * Description: This function prints the sign of the number
+ * Return: 1 if number is positive, o if number is 0, or
+ * -1 if number is negative
  */
 int print_sign(int n)
 {
