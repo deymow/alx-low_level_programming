@@ -6,7 +6,7 @@
 #include "main.h"
 
 /**
- * print_sign - prints the sign of a number
+ * print_sign - Checks and prints the sign of a number
  * @n: The number of which the sign will be printed.
  * Return: 1 and prints positive if number is greater than 0,
  * Return: 0 and prints 0 if number is 0, or
