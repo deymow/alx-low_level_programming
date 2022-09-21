@@ -4,9 +4,9 @@
  */
 #include "main.h"
 /**
- * _abs - Function _abs computes the absolute value of an integer.
- * @n: This is the integer to be computed.
- * Return: The absolute value of the integer n is returned
+ * _abs - Computes the absolute value of an integer.
+ * @n: The integer to be computed.
+ * Return: n if n is greater than 0 or -n if less than 0.
  */
 int _abs(int n)
 {
