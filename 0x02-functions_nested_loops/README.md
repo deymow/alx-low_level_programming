@@ -21,4 +21,6 @@
 	Returns -1 and prints - if n is less than zero
 6,) A function that computes the absolute value of an integer.
 	Prototype: int _abs(int);
-7,)
+7,) A function that prints the last digit of a number.
+	Prototype: int print_last_digit(int);
+	Returns the value of the last digit

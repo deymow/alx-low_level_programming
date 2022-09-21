@@ -7,9 +7,10 @@
  * print_sign - Prints the sign of a number.
  * @n: The number of which the sign will be printed.
  *
- * Return: 1 if the number is greater than zero,
- * 	   0 if the number is zero,
- * 	   -1 if the number is less than zero.
+ * Description: Tohis function prints the sign of the number
+ * Return: 1 if number is positive, 
+ *	0 if number is 0, or
+ *	-1 if number is negative
  */
 int print_sign(int n)
 {
