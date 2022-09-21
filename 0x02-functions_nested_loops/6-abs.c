@@ -7,6 +7,9 @@
  * _abs() - Computes the absolute value of an integer.
  * @n: The integer to be computed.
  *
+ * Description: The function accept an interger value and 
+ * computes the absolute value which is then returned.
+ *
  * Return: Absolute value of number
  */
 int _abs(int n)
