@@ -8,9 +8,9 @@
 /**
  * print_sign - prints the sign of a number
  * @n: The number of which the sign will be printed.
- * Return: 1 if number is positive,
- *	0 if number is 0, or
- *	-1 if number is negative
+ * Return: 1 and prints positive if number is greater than 0,
+ * Return: 0 and prints 0 if number is 0, or
+ * Return: -1 and prints - if number is negative
  */
 int print_sign(int n)
 {
