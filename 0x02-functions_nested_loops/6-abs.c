@@ -5,7 +5,6 @@
 #include "main.h"
 /**
  * _abs() - Computes the absolute value of an integer.
- * Description: This function returns absolute value of a number
  * @n: The integer to be computed.
  *
  * Return: Absolute value of number
