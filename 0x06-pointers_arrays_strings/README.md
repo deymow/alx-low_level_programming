@@ -11,4 +11,10 @@
 2,) A function that copies a string.
 	Prototype: char *_strncpy(char *dest, char *src, int n);
 	Your function should work exactly like strncpy
-3,)
+3,) A function that compares two strings.
+	Prototype: int _strcmp(char *s1, char *s2);
+	Your function should work exactly like strcmp
+4,) A function that reverses the content of an array of integers.
+	Prototype: void reverse_array(int *a, int n);
+	Where n is the number of elements of the array
+5,)
