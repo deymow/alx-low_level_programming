@@ -17,4 +17,9 @@
 4,) A function that reverses the content of an array of integers.
 	Prototype: void reverse_array(int *a, int n);
 	Where n is the number of elements of the array
-5,)
+5,) A function that changes all lowercase letters of a string to uppercase.
+	Prototype: char *string_toupper(char *);
+6,) A function that capitalizes all words of a string.
+	Prototype: char *cap_string(char *);
+	Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+7,) 
